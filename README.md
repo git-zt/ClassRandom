@@ -1,5 +1,6 @@
 ClassRandom Project
 =======
+
 ## 1.简介
 
 ​    这是一款使用 Java 语言，基于 Java Swing 可视化开发的一款多场景适用的点名软件。
