@@ -23,7 +23,7 @@ public class Spanel extends JPanel implements KeyListener,ActionListener {
         JButton LookUpButton = new JButton("查看名单");
         JButton RemoveButton = new JButton("去除重复");
         JButton LookUpRemoveButton = new JButton("查看被除去的人");
-        JButton simulation = new JButton("模拟");
+        //JButton simulation = new JButton("模拟");
 
         setLayout(null);//去除默认流式布局
 
@@ -31,7 +31,7 @@ public class Spanel extends JPanel implements KeyListener,ActionListener {
         LookUpButton.setBounds(490, 350, 100, 60);
         RemoveButton.setBounds(350, 440, 100, 80);
         LookUpRemoveButton.setBounds(470, 430, 140, 60);
-        simulation.setBounds(350,550,140,60);
+        //simulation.setBounds(350,550,140,60);
 
         //抽取按钮的逻辑处理
         RollButton.addActionListener(new ActionListener() {
@@ -107,27 +107,27 @@ public class Spanel extends JPanel implements KeyListener,ActionListener {
         });
 
         //模拟抽取按钮的逻辑处理
-        simulation.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                // 进行逻辑处理即可
-                for (int i = 0;i < 1000;i ++) {
-                    System.out.println(RandomName());
-                    long random = new Random().nextInt(100) * 3;
-                    try {
-                        Thread.sleep(random);
-                    } catch (InterruptedException ex) {
-                        ex.printStackTrace();
-                    }
-                }
-            }
-        });
+//        simulation.addActionListener(new ActionListener() {
+//            @Override
+//            public void actionPerformed(ActionEvent e) {
+//                // 进行逻辑处理即可
+//                for (int i = 0;i < 1000;i ++) {
+//                    System.out.println(RandomName());
+//                    long random = new Random().nextInt(100) * 3;
+//                    try {
+//                        Thread.sleep(random);
+//                    } catch (InterruptedException ex) {
+//                        ex.printStackTrace();
+//                    }
+//                }
+//            }
+//        });
 
         this.add(RemoveButton);
         this.add(LookUpButton);
         this.add(RollButton);
         this.add(LookUpRemoveButton);
-        this.add(simulation);
+        //this.add(simulation);
 
     }
 

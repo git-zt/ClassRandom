@@ -6,7 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd54ec9-063f-4812-9584-85f1444dbdc1" name="Default Changelist" comment="" />
+    <list default="true" id="1bd54ec9-063f-4812-9584-85f1444dbdc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Spanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spanel.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +28,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fx7u5tL4P38Ymr6e2XDIWZBdna" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/jl1.0.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15039062" />
@@ -80,5 +92,16 @@
       <updated>1597148109842</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
