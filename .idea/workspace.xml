@@ -7,13 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd54ec9-063f-4812-9584-85f1444dbdc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jl1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jl1_0_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomGUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RandomGUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RandomGUI_jar/RandomGUI.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RandomGUI_jar/RandomGUI.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel$4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/Spanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomGUI/Spanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomGUI/TTS.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Spanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TTS.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +41,24 @@
   </component>
   <component name="ProjectId" id="1fx7u5tL4P38Ymr6e2XDIWZBdna" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/jl1.0.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RandomNUM" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15039062" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\80963\IdeaProjects\RandomGUI\resource\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1597148109842</updated>
     </task>
+    <task id="LOCAL-00001" summary="Remove `simulation` button">
+      <created>1605192631736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605192631736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,10 +127,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove `simulation` button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove `simulation` button" />
   </component>
 </project>
