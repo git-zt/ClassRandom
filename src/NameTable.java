@@ -125,7 +125,11 @@ public class NameTable extends JFrame {
                     for (int i = selected.length - 1; i >= 0; i--) {
                         model.removeRow(selected[i]);
                         //也同步删除位于Array里的数据
+<<<<<<< HEAD
                         Spanel.NameArray.remove(selected[i]);
+=======
+                        Spanel.NameArray.remove(i);
+>>>>>>> master
                         Sync2Arrays();
                     }
                 }
@@ -289,7 +293,10 @@ public class NameTable extends JFrame {
     }
 
     static void Sync2Arrays() {
+<<<<<<< HEAD
         Spanel.ShowArray.clear();
+=======
+>>>>>>> master
         for (int i = 0;i < Spanel.NameArray.size();i++) {
             ArrayList<String> member = new ArrayList<>();
             for (int j = 0;j < 3;j++) {
